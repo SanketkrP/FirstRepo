@@ -12,7 +12,7 @@ void solve(vector<int> val,int h)
         }
         else
         {
-          c=c+2;  
+          c=c+3;  
         }
     }
     
