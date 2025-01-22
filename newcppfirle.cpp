@@ -16,7 +16,7 @@ void solve(vector<int> val,int h)
         }
     }
     
-    cout<<c<<endl;
+    cout<<c<<"    "<<endl;
 }
 
 int main()
